@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Print Hello with CSS</title>
+  <style>
+    /* CSS to style the Hello text */
+    body {
+      background-color: #f0f8ff; /* Light background */
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 50px;
+    }
+    .hello-text {
+      color: blue;           /* Text color */
+      font-size: 36px;       /* Large font size */
+      font-weight: bold;     /* Bold text */
+    }
+  </style>
+</head>
+<body>
+  <div class="hello-text">Hello</div>
+</body>
+</html>
